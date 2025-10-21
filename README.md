@@ -14,7 +14,7 @@
 <p align="center">
   👀 I'm interested in Programming Languages, I.T Security, and Pentesting. <br />
   🌱 I'm currently learning C# and Javascript. <br />
-  📫 Reach me at [Your Contact Info]. <br />
+  📫 Reach me at matteosabaudo@outlook.it. <br />
   ⚡ Known Languages: Python, C, C++, Java, HTML, CSS, Portoghese, English, Spanish and Italian.
 </p>
 
