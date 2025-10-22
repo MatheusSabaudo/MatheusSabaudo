@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://imgur.com/a/cTHUxcK" />
+  <img src="https://i.imgur.com/github-cTHUxcK.png" alt="GitHub Banner" />
 </p>
 
 <!-- Intro Section -->
@@ -13,9 +13,9 @@
 <h3 align="center">About Me</h3>
 <p align="center">
   👀 I'm interested in Programming Languages, I.T Security, and Pentesting. <br />
-  🌱 I'm currently learning C# and Javascript. <br />
-  📫 Reach me at matteosabaudo@outlook.it. <br />
-  ⚡ Known Languages: Python, C, C++, Java, HTML, CSS, Portoghese, English, Spanish and Italian.
+  🌱 I'm currently learning C# and JavaScript. <br />
+  📫 Reach me at <a href="mailto:matteosabaudo@outlook.it">matteosabaudo@outlook.it</a>. <br />
+  ⚡ Known Languages: Python, C, C++, Java, HTML, CSS, Portuguese, English, Spanish, and Italian.
 </p>
 
 <!-- Stats Section -->
