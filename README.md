@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/cTHUxcK.png" alt="GitHub Banner" />
+  <img src="[https://i.imgur.com/cTHUxcK.png" alt="GitHub Banner](https://github.com/MatheusSabaudo/MatheusSabaudo/blob/main/gradient-electronic-music-festival-twitch-banner-template.png)" />
 </p>
 
 <!-- Intro Section -->
