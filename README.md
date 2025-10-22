@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="C:\Users\matte\Pictures\gradient-electronic-music-festival-twitch-banner-template" />
+  <img src="https://imgur.com/a/cTHUxcK" />
 </p>
 
 <!-- Intro Section -->
