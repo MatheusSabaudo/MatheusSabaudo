@@ -34,10 +34,37 @@
        alt="Tech Stack" />
 </p>
 
+<!-- Currently Learning Section -->
+<h3 align="center">📚 Currently Learning</h3>
+<p align="center">
+  - C# & .NET Development<br />
+  - Advanced JavaScript (Node.js & React)<br />
+  - Cybersecurity Labs & Penetration Testing<br />
+  - Wazuh, SIEM tools, and SOC workflows
+</p>
+
+<!-- Achievements / Certifications Section -->
+<h3 align="center">🏅 Achievements & Certifications</h3>
+<p align="center">
+  - Voluntary service in the Italian Army (VFI)<br />
+  - Diploma in Information Technology (Secondary School)<br />
+  - CompTIA Network+ & Security+ (in progress)<br />
+  - Completed multiple cybersecurity labs and personal projects
+</p>
+
+<!-- Fun Facts Section -->
+<h3 align="center">🎯 Fun Facts</h3>
+<p align="center">
+  - I’ve been coding since I was a kid, starting with Python.<br />
+  - Multilingual: Portuguese, English, Spanish, Italian.<br />
+  - Music & gaming enthusiast — love creating themed banners for Twitch/Discord.<br />
+  - Always exploring new tech trends and personal projects.
+</p>
+
 <!-- Social Links Section -->
 <h3 align="center">📱 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-sabaudo-rodrigues-23b74130a/" target="_blank">
+  <a href="https://www.linkedin.com/in/matheussabaudo" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
