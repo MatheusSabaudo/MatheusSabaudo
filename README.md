@@ -1,6 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MatheusSabaudo/MatheusSabaudo/main/gradient-electronic-music-festival-twitch-banner-template.png" alt="GitHub Banner" />
+  <img src="https://raw.githubusercontent.com/MatheusSabaudo/MatheusSabaudo/main/gradient-electronic-music-festival-twitch-banner-template.png" 
+       alt="GitHub Banner" 
+       style="border-radius:15px; box-shadow:0 4px 12px rgba(0,0,0,0.5); max-width:90%; height:auto;" />
 </p>
 
 <!-- Intro Section -->
@@ -18,16 +20,34 @@
   ⚡ Known Languages: Python, C, C++, Java, HTML, CSS, Portuguese, English, Spanish, and Italian.
 </p>
 
-<!-- Stats Section -->
-<h3 align="center">GitHub Stats</h3>
+<!-- Highlights Section -->
+<h3 align="center">🏆 My GitHub Highlights</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusSabaudo&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=MatheusSabaudo&theme=dark&hide_border=true" 
+       alt="GitHub Streak" />
 </p>
 
-<!-- Languages Section -->
-<h3 align="center">Top Languages</h3>
+<!-- Tech Stack Section -->
+<h3 align="center">💻 Tech Stack</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSabaudo&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,cs,linux,git,github" 
+       alt="Tech Stack" />
+</p>
+
+<!-- Social Links Section -->
+<h3 align="center">📱 Connect with Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-sabaudo-rodrigues-23b74130a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MatheusSabaudo" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:matteosabaudo@outlook.it">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" />
+  </a>
 </p>
 
 <!-- Footer -->
