@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url" width="100%" alt="Banner Image" />
+  <img src="https://your-banner-image-url](https://www.freepik.com/free-vector/gradient-electronic-music-festival-twitch-banner-template_34684747.htm#fromView=keyword&page=1&position=18&uuid=9ac00b48-f70d-4cea-83b1-77651dda9f13&query=Github+cover)" width="100%" alt="Banner Image](https://www.freepik.com/free-vector/gradient-electronic-music-festival-twitch-banner-template_34684747.htm#fromView=keyword&page=1&position=18&uuid=9ac00b48-f70d-4cea-83b1-77651dda9f13&query=Github+cover)" />
 </p>
 
 <!-- Intro Section -->
