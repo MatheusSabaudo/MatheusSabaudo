@@ -47,7 +47,8 @@
 <h3 align="center">🏅 Achievements & Certifications</h3>
 <p align="center">
   - Voluntary service in the Italian Army (VFI)<br />
-  - Diploma in Information Technology (Secondary School)<br />
+  - Diploma in Information Technology - Esame di Stato: 80/100<br />
+  - Cisco CCNA (in progress)<br />
   - CompTIA Network+ & Security+ (in progress)<br />
   - Completed multiple cybersecurity labs and personal projects
 </p>
@@ -57,7 +58,7 @@
 <p align="center">
   - I’ve been coding since I was a kid, starting with Python.<br />
   - Multilingual: Portuguese, English, Spanish, Italian.<br />
-  - Music & gaming enthusiast — love creating themed banners for Twitch/Discord.<br />
+  - Music & gaming enthusiast — love creating personalized bots for Twitch/Discord.<br />
   - Always exploring new tech trends and personal projects.
 </p>
 
