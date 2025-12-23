@@ -65,7 +65,7 @@
 <!-- Social Links Section -->
 <h3 align="center">📱 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheussabaudo" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-sabaudo-rodrigues-23b74130a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
