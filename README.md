@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MatheusSabaudo/MatheusSabaudo/main/gradient-electronic-music-festival-twitch-banner-template.png" 
+  <img src="https://raw.githubusercontent.com/MatheusSabaudo/MatheusSabaudo/main/background.png" 
        alt="GitHub Banner" 
        style="border-radius:15px; box-shadow:0 4px 12px rgba(0,0,0,0.5); max-width:90%; height:auto;" />
 </p>
