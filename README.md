@@ -8,13 +8,13 @@
 <!-- Intro Section -->
 <h1 align="center">👋 Hi, I'm Matheus Sabaudo</h1>
 <p align="center">
-  An aspiring Junior Data Engineer with a background in cybersecurity and DevOps fundamentals.
+  An aspiring **Junior Data Engineer** with a background in cybersecurity and DevOps fundamentals.
 </p>
 
 <!-- About Me Section -->
 <h3 align="center">About Me</h3>
 <p align="center">
-  👀 Passionate about **Data Engineering, Python, SQL, and ETL pipelines**.<br />
+  👀 Passionate about **Data Engineering, Python, SQL, ETL pipelines, and workflow automation**.<br />
   🌱 Continuously building hands-on projects to strengthen my **data workflow and automation skills**.<br />
   📫 Reach me at <a href="mailto:matteosabaudo@outlook.it">matteosabaudo@outlook.it</a>.<br />
   ⚡ Known Languages & Tools: Python, SQL, C, C++, Java, HTML, CSS, Git, Docker, Airflow, PostgreSQL, MySQL, Linux.
@@ -46,14 +46,15 @@
 <!-- Achievements / Certifications Section -->
 <h3 align="center">🏅 Achievements & Certifications</h3>
 <p align="center">
-  - Voluntary service in the Italian Army (VFI)<br />
-  - Diploma in Information Technology - Esame di Stato: 80/100<br />
-  - Cisco CCNA Exam preparation<br />
-  - CompTIA Network+ & Security+ (in progress)<br />
+  - Completed multiple **Data Engineering & Personal Projects**<br />
+  - ETL Pipelines, Python, SQL, Airflow, PostgreSQL/MySQL (hands-on)<br />
   - Introduction to Digital Forensics<br />
   - AWS Cloud Practitioner Essentials<br />
   - TCM Practical Ethical Hacker<br />
-  - Completed multiple **data engineering and personal projects**
+  - Cisco CCNA Exam preparation<br />
+  - CompTIA Network+ & Security+ (in progress)<br />
+  - Voluntary service in the Italian Army (VFI)<br />
+  - Diploma in Information Technology - Esame di Stato: 80/100
 </p>
 
 <!-- Fun Facts Section -->
@@ -62,7 +63,7 @@
   - Coding since childhood, starting with Python.<br />
   - Multilingual: Portuguese, English, Spanish, Italian.<br />
   - Passionate about technology, gaming, and personal projects.<br />
-  - Enjoy experimenting with **HomeLab setups, data pipelines, and workflow automation**
+  - Enjoy experimenting with **HomeLab setups, data pipelines, and workflow automation**.
 </p>
 
 <!-- Social Links Section -->
