@@ -8,16 +8,16 @@
 <!-- Intro Section -->
 <h1 align="center">👋 Hi, I'm Matheus Sabaudo</h1>
 <p align="center">
-  An aspiring **Junior Data Engineer** with a background in cybersecurity and DevOps fundamentals.
+  An aspiring <strong>Junior Data Engineer</strong> with a background in cybersecurity and DevOps fundamentals.
 </p>
 
 <!-- About Me Section -->
 <h3 align="center">About Me</h3>
 <p align="center">
-  👀 Passionate about **Data Engineering, Python, SQL, ETL pipelines, and workflow automation**.<br />
-  🌱 Continuously building hands-on projects to strengthen my **data workflow and automation skills**.<br />
+  👀 Passionate about <strong>Data Engineering, Python, SQL, ETL pipelines, and workflow automation</strong>.<br />
+  🌱 Continuously building hands-on projects to strengthen my <strong>data workflow and automation skills</strong>.<br />
   📫 Reach me at <a href="mailto:matteosabaudo@outlook.it">matteosabaudo@outlook.it</a>.<br />
-  ⚡ Known Languages & Tools: Python, SQL, C, C++, Java, HTML, CSS, Git, Docker, Airflow, PostgreSQL, MySQL, Linux.
+  ⚡ Known Languages & Tools: <strong>Python, SQL, C, C++, Java, HTML, CSS, Git, Docker, Airflow, PostgreSQL, MySQL, Linux</strong>.
 </p>
 
 <!-- GitHub Highlights Section -->
@@ -37,16 +37,16 @@
 <!-- Currently Learning Section -->
 <h3 align="center">📚 Currently Learning</h3>
 <p align="center">
-  - ETL Pipeline Development & Data Workflows<br />
-  - Advanced Python & SQL Skills<br />
-  - Database Management & Automation<br />
-  - Data Visualization & Reporting
+  - <strong>ETL Pipeline Development & Data Workflows</strong><br />
+  - <strong>Advanced Python & SQL Skills</strong><br />
+  - <strong>Database Management & Automation</strong><br />
+  - <strong>Data Visualization & Reporting</strong>
 </p>
 
 <!-- Achievements / Certifications Section -->
 <h3 align="center">🏅 Achievements & Certifications</h3>
 <p align="center">
-  - Completed multiple **Data Engineering & Personal Projects**<br />
+  - Completed multiple <strong>Data Engineering & Personal Projects</strong><br />
   - ETL Pipelines, Python, SQL, Airflow, PostgreSQL/MySQL (hands-on)<br />
   - Introduction to Digital Forensics<br />
   - AWS Cloud Practitioner Essentials<br />
@@ -63,7 +63,7 @@
   - Coding since childhood, starting with Python.<br />
   - Multilingual: Portuguese, English, Spanish, Italian.<br />
   - Passionate about technology, gaming, and personal projects.<br />
-  - Enjoy experimenting with **HomeLab setups, data pipelines, and workflow automation**.
+  - Enjoy experimenting with <strong>HomeLab setups, data pipelines, and workflow automation</strong>.
 </p>
 
 <!-- Social Links Section -->
