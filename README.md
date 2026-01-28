@@ -8,20 +8,20 @@
 <!-- Intro Section -->
 <h1 align="center">👋 Hi, I'm Matheus Sabaudo</h1>
 <p align="center">
-  A passionate programmer and cybersecurity enthusiast.
+  An aspiring Junior Data Engineer with a background in cybersecurity and DevOps fundamentals.
 </p>
 
 <!-- About Me Section -->
 <h3 align="center">About Me</h3>
 <p align="center">
-  👀 I'm interested in Programming Languages, I.T Security, and Pentesting. <br />
-  🌱 I'm currently learning C# and JavaScript. <br />
-  📫 Reach me at <a href="mailto:matteosabaudo@outlook.it">matteosabaudo@outlook.it</a>. <br />
-  ⚡ Known Languages: Python, C, C++, Java, HTML, CSS, Portuguese, English, Spanish, and Italian.
+  👀 Passionate about **Data Engineering, Python, SQL, and ETL pipelines**.<br />
+  🌱 Continuously building hands-on projects to strengthen my **data workflow and automation skills**.<br />
+  📫 Reach me at <a href="mailto:matteosabaudo@outlook.it">matteosabaudo@outlook.it</a>.<br />
+  ⚡ Known Languages & Tools: Python, SQL, C, C++, Java, HTML, CSS, Git, Docker, Airflow, PostgreSQL, MySQL, Linux.
 </p>
 
-<!-- Highlights Section -->
-<h3 align="center">🏆 My GitHub Highlights</h3>
+<!-- GitHub Highlights Section -->
+<h3 align="center">🏆 GitHub Highlights</h3>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MatheusSabaudo&theme=dark&hide_border=true" 
        alt="GitHub Streak" />
@@ -30,17 +30,17 @@
 <!-- Tech Stack Section -->
 <h3 align="center">💻 Tech Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,cs,linux,git,github" 
+  <img src="https://skillicons.dev/icons?i=python,sql,cpp,java,html,css,js,docker,git,github,airflow,linux" 
        alt="Tech Stack" />
 </p>
 
 <!-- Currently Learning Section -->
 <h3 align="center">📚 Currently Learning</h3>
 <p align="center">
-  - C# & .NET Development<br />
-  - Advanced JavaScript (Node.js & React)<br />
-  - Cybersecurity Labs & Penetration Testing<br />
-  - Wazuh, SIEM tools, and SOC workflows
+  - ETL Pipeline Development & Data Workflows<br />
+  - Advanced Python & SQL Skills<br />
+  - Database Management & Automation<br />
+  - Data Visualization & Reporting
 </p>
 
 <!-- Achievements / Certifications Section -->
@@ -48,18 +48,21 @@
 <p align="center">
   - Voluntary service in the Italian Army (VFI)<br />
   - Diploma in Information Technology - Esame di Stato: 80/100<br />
-  - Cisco CCNA (in progress)<br />
+  - Cisco CCNA Exam preparation<br />
   - CompTIA Network+ & Security+ (in progress)<br />
-  - Completed multiple cybersecurity labs and personal projects
+  - Introduction to Digital Forensics<br />
+  - AWS Cloud Practitioner Essentials<br />
+  - TCM Practical Ethical Hacker<br />
+  - Completed multiple **data engineering and personal projects**
 </p>
 
 <!-- Fun Facts Section -->
 <h3 align="center">🎯 Fun Facts</h3>
 <p align="center">
-  - I’ve been coding since I was a kid, starting with Python.<br />
+  - Coding since childhood, starting with Python.<br />
   - Multilingual: Portuguese, English, Spanish, Italian.<br />
-  - Music & gaming enthusiast — love creating personalized bots for Twitch/Discord.<br />
-  - Always exploring new tech trends and personal projects.
+  - Passionate about technology, gaming, and personal projects.<br />
+  - Enjoy experimenting with **HomeLab setups, data pipelines, and workflow automation**
 </p>
 
 <!-- Social Links Section -->
@@ -80,5 +83,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <em>Let's connect and collaborate!</em>
+  <em>Let's connect and collaborate on Data Engineering projects!</em>
 </p>
