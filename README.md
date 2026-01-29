@@ -20,11 +20,11 @@
   ⚡ Known Languages & Tools: <strong>Python, SQL, C, C++, Java, HTML, CSS, Git, Docker, Airflow, PostgreSQL, MySQL, Linux</strong>.
 </p>
 
-<h3 align="center">🏆 GitHub Highlights</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusSabaudo&show_icons=true&theme=dark&hide_border=true" 
-       alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSabaudo&layout=compact&theme=dark&hide_border=true" 
+       alt="Top Languages" />
 </p>
+
 
 
 <!-- Tech Stack Section -->
