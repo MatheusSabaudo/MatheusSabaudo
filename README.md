@@ -1,3 +1,5 @@
+
+You said:
 <!-- Banner Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/MatheusSabaudo/MatheusSabaudo/main/background.png" 
@@ -20,12 +22,12 @@
   ⚡ Known Languages & Tools: <strong>Python, SQL, C, C++, Java, HTML, CSS, Git, Docker, Airflow, PostgreSQL, MySQL, Linux</strong>.
 </p>
 
+<!-- GitHub Highlights Section -->
+<h3 align="center">🏆 GitHub Highlights</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSabaudo&layout=compact&theme=dark&hide_border=true" 
-       alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=MatheusSabaudo&theme=dark&hide_border=true" 
+       alt="GitHub Streak" />
 </p>
-
-
 
 <!-- Tech Stack Section -->
 <h3 align="center">💻 Tech Stack</h3>
