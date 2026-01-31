@@ -1,5 +1,3 @@
-
-You said:
 <!-- Banner Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/MatheusSabaudo/MatheusSabaudo/main/background.png" 
