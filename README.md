@@ -23,7 +23,7 @@
 <!-- GitHub Highlights Section -->
 <h3 align="center">🏆 GitHub Highlights</h3>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MatheusSabaudo&theme=highcontrast" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MatheusSabaudo&theme=highcontrast&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </p>
 
 <!-- Tech Stack Section -->
