@@ -8,7 +8,7 @@
 <!-- Intro Section -->
 <h1 align="center">👋 Hi, I'm Matheus Sabaudo</h1>
 <p align="center">
-  An aspiring <strong>Junior Data Engineer</strong> with a background in cybersecurity and DevOps fundamentals.
+  A <strong> Data Engineer</strong> with a background in cybersecurity and DevOps fundamentals.
 </p>
 
 <!-- About Me Section -->
