@@ -17,7 +17,7 @@
   👀 Passionate about <strong>Data Engineering, Python, SQL, ETL pipelines, and workflow automation</strong>.<br />
   🌱 Continuously building hands-on projects to strengthen my <strong>data workflow and automation skills</strong>.<br />
   📫 Reach me at <a href="mailto:matteosabaudo@outlook.it">matteosabaudo@outlook.it</a>.<br />
-  ⚡ Known Languages & Tools: <strong>Python, SQL, C, C++, Java, HTML, CSS, Git, Docker, Airflow, PostgreSQL, MySQL, Linux</strong>.
+  ⚡ Known Languages & Tools: <strong>Python, SQL, C, C++, Git, Docker, Airflow, PostgreSQL, dbt, MySQL, Linux</strong>.
 </p>
 
 <!-- GitHub Highlights Section -->
